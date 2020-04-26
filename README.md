@@ -1,3 +1,5 @@
+![CI](https://github.com/setsunaMC/laravel-actions-sample/workflows/CI/badge.svg)
+
 # laravel-actions-sample
 
 Laravel で使える GithubActions のサンプルをまとめて置く場所
